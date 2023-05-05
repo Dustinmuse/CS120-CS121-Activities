@@ -2,7 +2,7 @@
 
 | Number | Repository | Description |
 | ------ | ---------- | ----------- |
-| Week one | Practice [https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekOne] | Getting used to variables & scanner |
+| Week one | Practice([https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekOne]) | Getting used to variables & scanner |
 | Week two | Activities 1-3 | Familiarizing myself with if else statement & for loops |
 | Week three | Activities 4-9 | Practice with if else statements & for and while loops all together |
 | Week four | Activities 10-11 & Project 1 | Practicing file reads and writes with try and catch methods & review of previous activities in a project (game) |
