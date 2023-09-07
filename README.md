@@ -12,7 +12,7 @@
 | Week eight | [Activity 19](https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekEight) | Practice with parent class and super method |
 | Week ten | [Activities 20-24](https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekTen) | Practice with abstract, interface, and static methods & recursion & big o testing |
 | Week eleven | [Activities 25-26 & Project 2](https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekEleven) | Use of bubble sort and merge sort & review of previous activities in a project across multiple classes (game) |
-| Week twelve | [Activities 27-29](https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekTwelve) | Use of tree set & bianary search & generic methods & hash sets |
+| Week twelve | [Activities 27-29](https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekTwelve) | Use of tree set & binary search & generic methods & hash sets |
 | Week thirteen | [Activities 30-32](https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekThirteen) | Use of linked lists & hash maps & balance of special characters in a string |
 | Week fourteen | [Activity 33](https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekFourteen) | Practice of linked lists in queues |
 | Week fifteen | [Activities 34-36](https://github.com/Dustinmuse/2022-2023-activities/tree/main/WeekFifteen) | Use of time with data & string builder |
