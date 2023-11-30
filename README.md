@@ -1,4 +1,4 @@
-# CS 120 & CS 121-activities
+# CS 120 & CS 121-Activities
 
 | Number | Repository | Description |
 | ------ | ---------- | ----------- |
