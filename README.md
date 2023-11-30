@@ -1,4 +1,4 @@
-# 2022-2023-activities
+# CS 120 & CS 121-activities
 
 | Number | Repository | Description |
 | ------ | ---------- | ----------- |
